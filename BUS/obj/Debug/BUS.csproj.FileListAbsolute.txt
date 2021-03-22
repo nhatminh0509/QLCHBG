@@ -1,0 +1,27 @@
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\BUS.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\BUS.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DAO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DTO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DAO.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DTO.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\obj\Debug\BUS.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\BUS\obj\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\obj\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\BUS\obj\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\bin\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\bin\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\obj\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\BUS\obj\Debug\BUS.pdb

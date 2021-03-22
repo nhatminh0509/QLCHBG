@@ -1,0 +1,21 @@
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DAO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DAO.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DTO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DTO.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\obj\Debug\DAO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\DAO\obj\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\obj\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\DAO\obj\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\obj\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\DAO\obj\Debug\DAO.pdb

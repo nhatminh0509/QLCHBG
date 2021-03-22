@@ -1,0 +1,7 @@
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\bin\Release\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\bin\Release\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\bin\Release\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\bin\Release\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\obj\Release\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DAO\obj\Release\DAO.pdb

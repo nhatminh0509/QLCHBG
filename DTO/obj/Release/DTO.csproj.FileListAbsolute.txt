@@ -1,0 +1,5 @@
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DTO\bin\Release\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DTO\bin\Release\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DTO\obj\Release\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\DTO\obj\Release\DTO.pdb

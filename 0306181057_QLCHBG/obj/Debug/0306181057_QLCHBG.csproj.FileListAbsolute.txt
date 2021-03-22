@@ -1,0 +1,100 @@
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe.config
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.dll
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.pdb
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csprojResolveAssemblyReference.cache
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmBanHang.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmDangNhap.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmInBaoCao.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLBG.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLKho.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQuanLi.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhKH.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhNCC.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmTTTK.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.Properties.Resources.resources
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csproj.GenerateResource.Cache
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.cache
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.compiled
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\Desktop\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe.config
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmBanHang.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmDangNhap.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmInBaoCao.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLBG.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLKho.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQuanLi.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhKH.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhNCC.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmTTTK.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.Properties.Resources.resources
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csproj.GenerateResource.Cache
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.cache
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.compiled
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\OneDrive\Máy tính\Đồ Án C#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe.config
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmBanHang.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmDangNhap.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmInBaoCao.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLBG.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLKho.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQuanLi.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhKH.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhNCC.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmTTTK.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.Properties.Resources.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csproj.GenerateResource.Cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.compiled
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\OneDrive\Máy tính\DoanC#\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe.config
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\0306181057_QLCHBG.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.dll
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\BUS.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DTO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\bin\Debug\DAO.pdb
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csprojResolveAssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmBanHang.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmDangNhap.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmInBaoCao.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLBG.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQLKho.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmQuanLi.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhKH.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmThemNhanhNCC.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.frmTTTK.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\_0306181057_QLCHBG.Properties.Resources.resources
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.csproj.GenerateResource.Cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.cache
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\RdlCompile.compiled
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.exe
+C:\Users\lemin\OneDrive\Máy tính\DoanC\0306181057_QLCHBG\0306181057_QLCHBG\obj\Debug\0306181057_QLCHBG.pdb
